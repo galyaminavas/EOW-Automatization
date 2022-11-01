@@ -1,0 +1,73 @@
+Analytics 29/09/22 - 05/10/22
+
+
+Hyper Project Android
+Installs: 6000 (5500 organic + 500 paid)
+WAU: 25000
+AVG DAU: 7000
+Revenue: $5250.31
+Revenue IAP: $4250.00 ($5000.00)
+Revenue Ads: $1000.31
+
+Retention:
+29/09/22 - 05/10/22: 8000 installs, D1 - 30.67%
+23/09/22 - 29/09/22: 7500 installs, D1 - 30.91%, D7 - 10.00%
+31/08/22 - 06/09/22: 10500 installs, D1 - 38.66%, D7 - 10.92%, D30 - 2.89%
+02/07/22 - 08/07/22: 30000 installs, D1 - 49.25%, D7 - 12.66%, D30 - 3.77%, D90 - 0.98%
+
+Hyper Project iOS
+Installs: 500
+WAU: 1000
+AVG DAU: 450
+Revenue: $270.59
+Revenue IAP: $170.00 ($200.00)
+Revenue Ads: $100.59
+
+Retention:
+29/09/22 - 05/10/22: 200 installs, D1 - 45.00%
+23/09/22 - 29/09/22: 250 installs, D1 - 38.25%, D7 - 17.91%
+31/08/22 - 06/09/22: 200 installs, D1 - 38.28%, D7 - 14.91%, D30 - 5.07%
+02/07/22 - 08/07/22: 650 installs, D1 - 47.99%, D7 - 19.95%, D30 - 6.42%, D90 - 1.99%
+
+Hyper Project MS
+Installs: 2000
+WAU: 4000
+AVG DAU: 1500
+Revenue: $2640.00
+Revenue IAP: $2640.00 ($3000.00)
+Revenue Ads: $0.00
+
+Retention:
+29/09/22 - 05/10/22: 1600 installs, D1 - 28.36%
+23/09/22 - 29/09/22: 1900 installs, D1 - 28.69%, D7 - 15.27%
+31/08/22 - 06/09/22: 2500 installs, D1 - 29.87%, D7 - 17.40%, D30 - 12.31%
+02/07/22 - 08/07/22: 8000 installs, D1 - 31.06%, D7 - 16.42%, D30 - 11.84%, D90 - 10.61%
+
+Hyper Project Amazon
+Installs: 200
+WAU: 400
+AVG DAU: 150
+Revenue: $466.66
+Revenue IAP: $400.00 ($500.00)
+Revenue Ads: $66.66
+
+Retention:
+29/09/22 - 05/10/22: 100 installs, D1 - 46.63%
+23/09/22 - 29/09/22: 150 installs, D1 - 53.65%, D7 - 25.38%
+31/08/22 - 06/09/22: 100 installs, D1 - 47.68%, D7 - 17.15%, D30 - 12.77%
+02/07/22 - 08/07/22: 50 installs, D1 - 36.34%, D7 - 18.07%, D30 - 12.14%, D90 - 0.00%
+
+Hyper Project Huawei
+Installs: 150
+WAU: 130
+AVG DAU: 70
+Revenue: $0.00
+Revenue IAP: $0.00 ($0.00)
+Revenue Ads: $0.00
+
+Retention:
+29/09/22 - 05/10/22: 100 installs, D1 - 16.63%
+23/09/22 - 29/09/22: 100 installs, D1 - 16.74%, D7 - 7.00%
+31/08/22 - 06/09/22: 100 installs, D1 - 50.05%, D7 - 20.18%, D30 - 0.00%
+02/07/22 - 08/07/22: 40 installs, D1 - 13.36%, D7 - 1.48%, D30 - 0.84%, D90 - 0.00%
+
